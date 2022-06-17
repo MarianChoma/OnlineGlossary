@@ -1,0 +1,22 @@
+#pBox, #vBox{
+    display: none;
+}
+header h1{
+    text-align: center;
+    width: 100%;
+}
+.container{
+    width: 75%;
+}
+.form-control{
+    margin-bottom: 15px;
+}
+#searchButton{
+    position: absolute;
+    left: 50%;
+    top: 20%;
+    transform: translateX(-50%);
+}
+.form-select{
+    width: 150px;
+}
